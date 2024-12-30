@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "fastapi-notebook-starter"
+name = "fastapi_notebook_starter"
 version = "0.1.0"
 description = ""
 authors = ["VishnuDileesh <munnadileesh@gmail.com>"]
